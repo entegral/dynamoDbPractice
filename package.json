@@ -1,0 +1,14 @@
+{
+  "name": "dynamodbpractice",
+  "version": "1.0.0",
+  "description": "practice for dynamoDb",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.434.0"
+  }
+}
